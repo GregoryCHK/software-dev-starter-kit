@@ -9,5 +9,6 @@ Cheat Sheets and Tutorials for common technologies and basic concepts.
 ### Git Cheat-Sheet PDF
 Check the file "Git Cheat Sheet" above for a detailed guide on Git commands.
 
-[Download Git Cheat Sheet](./git%git-cheat-sheet.pdf)
+[Download Git Cheat Sheet](./git-cheat-sheet)
+
 
