@@ -7,6 +7,7 @@ Cheat Sheets and Tutorials for common technologies and basic concepts.
 [Watch this Git Tutorial on YouTube](https://www.youtube.com/watch?v=zTjRZNkhiEU&ab_channel=freeCodeCamp.org)
 
 ### Git Cheat-Sheet PDF
-Refer to the attached PDF for a detailed Git Cheat-Sheet:
+Check the file "Git Cheat Sheet" above for a detailed guide on Git commands.
 
-[Download the Git Cheat-Sheet](./git%20cheat-sheet.pdf)
+[Download Git Cheat Sheet](./git%20cheat-sheet.pdf)
+
